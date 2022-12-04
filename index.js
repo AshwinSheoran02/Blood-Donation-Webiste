@@ -23,6 +23,12 @@ console.log(RegName);
 // location.href = "donation.html";
 }
 
+function login(){
+    location.href = "donation.html";
+   
+    }
+
+
 function details(){
     console.log("BOOM");
     var RegName =  localStorage.getItem("RegName");
