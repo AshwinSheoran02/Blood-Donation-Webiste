@@ -3,7 +3,7 @@ Blood Donation Webiste created for GDSC workshop
 
 Access the website here
 
-https://blood-donation-website.ashwinsheoran.repl.co/   (Website hosted on replit)
+https://Blood-Donation-Webiste.ashwinsheoran.repl.co   (Website hosted on replit)
 
 or here 
 
